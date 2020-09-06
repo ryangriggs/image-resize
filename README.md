@@ -24,4 +24,4 @@ Usage:
 
 Browser support:
 
-    Should works with all modern browsers that support the Canvas object.
+    Should work with all modern browsers that support the Canvas object.
