@@ -1,5 +1,5 @@
 # image-resize
-Javascript client-side image resizer using Canvas object
+Javascript client-side image resizer function using HTML Canvas object
 
 This library makes client-side image resizing easy and simple, using the HTML Canvas object.
 
